@@ -585,6 +585,7 @@
 					};
 					2122A6DD1B22B9320006409B = {
 						CreatedOnToolsVersion = 6.3.2;
+						LastSwiftMigration = 1020;
 					};
 					2122A6E81B22B9320006409B = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -1171,7 +1172,7 @@
 				PRODUCT_NAME = SyntaxKit;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -1194,7 +1195,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.samsoffes.syntaxkit;
 				PRODUCT_NAME = SyntaxKit;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
